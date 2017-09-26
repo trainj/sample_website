@@ -7,5 +7,5 @@ check it out](http://learnenough.com/html-tutorial), and be sure to [join
 the email list](http://learnenough.com/#email_list) and [follow @learnenough
 ](http://twitter.com/learnenough) on Twitter.
 
-After finishing *Learn Enough™ Git to Be Dangerous*, you'll know enough html
-to be *dangerous*. 
+After finishing *Learn Enough™ html to Be Dangerous*, you'll know enough html
+to be *dangerous*.
